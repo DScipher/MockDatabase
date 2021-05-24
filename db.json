@@ -1,0 +1,37 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "client": "Sahara Reporters",
+            "category": "Police Brutality",
+            "timestamp": "13/04/2020",
+            "randomefield1": 12333,
+            "headline": "Police extort #25000 from a bus driver in Ondo State",
+            "randomfield2": "dskfjsfdoiojsdfsdfskljfosdijfisdfsdf",
+            "post": "In a leased danfo – the privately run yellow and white minibuses that serve as unofficial public transport in Nigerian cities – the 32-year-old plies through the busy streets, breaking off before traffic signals...",
+            "randomfield3": "dfjsofjosdifjsdfsd"
+        },
+        {
+            "id": "2",
+            "client": "Channels TV",
+            "category": "Sexual Harrassment",
+            "timestamp": "21/07/2021",
+            "randomefield1": 12333,
+            "headline": "Octogenarian harrass a 15year old",
+            "randomfield2": "dskfjsfdoiojsdfsdfskljfosdijfisdfsdf",
+            "post": "Octogenarian Oscar-winner Morgan Freeman apologised on Thursday after a report of multiple sexual harassment accusations, making the actor the latest high-profile figure to face allegations of misconduct in the #MeToo era...",
+            "randomfield3": "dfjsofjosdifjsdfsd"
+        },
+        {
+            "id": "3",
+            "client": "Punch NG",
+            "category": "Fire Accident",
+            "timestamp": "21/07/2021",
+            "randomefield1": 12333,
+            "headline": "Fiery Fireeeeeeeee",
+            "randomfield2": "dskfjsfdoiojsdfsdfskljfosdijfisdfsdf",
+            "post": "Octogenarian Oscar-winner Morgan Freeman apologised on Thursday after a report of multiple sexual harassment accusations, making the actor the latest high-profile figure to face allegations of misconduct in the #MeToo era...",
+            "randomfield3": "dfjsofjosdifjsdfsd"
+        }
+    ]
+}
